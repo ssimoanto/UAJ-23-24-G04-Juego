@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 8379431b5283e2f4688fcd99881ca46e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2952101461170970462
+    second: SpriteSheet_Morado_BackGround_Walls_0
+  - first:
+      213: 20522305763355270
+    second: SpriteSheet_Morado_BackGround_Walls_1
+  - first:
+      213: 4748455954459627347
+    second: SpriteSheet_Morado_BackGround_Walls_2
+  - first:
+      213: -1759775533931126873
+    second: SpriteSheet_Morado_BackGround_Walls_3
+  - first:
+      213: 6218016706432772480
+    second: SpriteSheet_Morado_BackGround_Walls_4
+  - first:
+      213: 5774444200221437816
+    second: SpriteSheet_Morado_BackGround_Walls_5
+  - first:
+      213: -8382145027000634503
+    second: SpriteSheet_Morado_BackGround_Walls_6
+  - first:
+      213: 2826083225444965278
+    second: SpriteSheet_Morado_BackGround_Walls_7
+  - first:
+      213: 9111925314142523950
+    second: SpriteSheet_Morado_BackGround_Walls_8
+  - first:
+      213: 9182051585716229990
+    second: SpriteSheet_Morado_BackGround_Walls_9
+  - first:
+      213: -7037498841851054702
+    second: SpriteSheet_Morado_BackGround_Walls_10
+  - first:
+      213: -7118001287841702014
+    second: SpriteSheet_Morado_BackGround_Walls_11
+  - first:
+      213: 9028418689853413751
+    second: SpriteSheet_Morado_BackGround_Walls_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 298
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02ef9ac570807d0800000000000000
+      internalID: -2952101461170970462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 298
+        width: 190
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2ff8ade8e84000800000000000000
+      internalID: 20522305763355270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 178
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f872d3887e5e140800000000000000
+      internalID: 4748455954459627347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 174
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af9c9fb9750497e0800000000000000
+      internalID: -1759775533931126873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 240
+        width: 188
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ae520045da4650800000000000000
+      internalID: 6218016706432772480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 167
+        width: 109
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6381e762f22050800000000000000
+      internalID: 5774444200221437816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 166
+        width: 183
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f1d92283acab80800000000000000
+      internalID: -8382145027000634503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 160
+        width: 188
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b565668b3483720800000000000000
+      internalID: 2826083225444965278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 189
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22da51dbcf047e70800000000000000
+      internalID: 9111925314142523950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 90
+        width: 172
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6679de3c4433d6f70800000000000000
+      internalID: 9182051585716229990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 90
+        width: 175
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295be30f618c55e90800000000000000
+      internalID: -7037498841851054702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 190
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1c6f9a87c73d90800000000000000
+      internalID: -7118001287841702014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Morado_BackGround_Walls_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 190
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779d53cb6f26b4d70800000000000000
+      internalID: 9028418689853413751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheet_Morado_BackGround_Walls_0: -2952101461170970462
+      SpriteSheet_Morado_BackGround_Walls_1: 20522305763355270
+      SpriteSheet_Morado_BackGround_Walls_10: -7037498841851054702
+      SpriteSheet_Morado_BackGround_Walls_11: -7118001287841702014
+      SpriteSheet_Morado_BackGround_Walls_12: 9028418689853413751
+      SpriteSheet_Morado_BackGround_Walls_2: 4748455954459627347
+      SpriteSheet_Morado_BackGround_Walls_3: -1759775533931126873
+      SpriteSheet_Morado_BackGround_Walls_4: 6218016706432772480
+      SpriteSheet_Morado_BackGround_Walls_5: 5774444200221437816
+      SpriteSheet_Morado_BackGround_Walls_6: -8382145027000634503
+      SpriteSheet_Morado_BackGround_Walls_7: 2826083225444965278
+      SpriteSheet_Morado_BackGround_Walls_8: 9111925314142523950
+      SpriteSheet_Morado_BackGround_Walls_9: 9182051585716229990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

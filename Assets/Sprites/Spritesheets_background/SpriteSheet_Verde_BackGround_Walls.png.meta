@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 1401c06096932d64b8c739586ca2f1e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6475033955155577674
+    second: SpriteSheet_Verde_BackGround_Walls_0
+  - first:
+      213: 8665428419573943501
+    second: SpriteSheet_Verde_BackGround_Walls_1
+  - first:
+      213: 403167215009554435
+    second: SpriteSheet_Verde_BackGround_Walls_2
+  - first:
+      213: 917787376964237802
+    second: SpriteSheet_Verde_BackGround_Walls_3
+  - first:
+      213: -7205532927363366651
+    second: SpriteSheet_Verde_BackGround_Walls_4
+  - first:
+      213: -7764126533310870212
+    second: SpriteSheet_Verde_BackGround_Walls_5
+  - first:
+      213: -5249679044209702929
+    second: SpriteSheet_Verde_BackGround_Walls_6
+  - first:
+      213: -9061996910825765928
+    second: SpriteSheet_Verde_BackGround_Walls_7
+  - first:
+      213: -5697218693316150137
+    second: SpriteSheet_Verde_BackGround_Walls_8
+  - first:
+      213: 6806512522624541
+    second: SpriteSheet_Verde_BackGround_Walls_9
+  - first:
+      213: 6304754081542137830
+    second: SpriteSheet_Verde_BackGround_Walls_10
+  - first:
+      213: -2376995869998800432
+    second: SpriteSheet_Verde_BackGround_Walls_11
+  - first:
+      213: 6982905200687804045
+    second: SpriteSheet_Verde_BackGround_Walls_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 298
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b04a57311fbd950800000000000000
+      internalID: 6475033955155577674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 298
+        width: 190
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc87477c39c14870800000000000000
+      internalID: 8665428419573943501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 228
+        width: 175
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006abb2276589500800000000000000
+      internalID: 403167215009554435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 174
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97a47b1c2acbc00800000000000000
+      internalID: 917787376964237802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 240
+        width: 188
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5014027aafdc00c90800000000000000
+      internalID: -7205532927363366651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 166
+        width: 186
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d02d6dd08404490800000000000000
+      internalID: -7764126533310870212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 166
+        width: 183
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7811929b46527b0800000000000000
+      internalID: -5249679044209702929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 160
+        width: 188
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30b8672d15d3280800000000000000
+      internalID: -9061996910825765928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 188
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cfc2998c96fe0b0800000000000000
+      internalID: -5697218693316150137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 90
+        width: 169
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef111bc7e281000800000000000000
+      internalID: 6806512522624541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 90
+        width: 175
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76382ee6cfe7750800000000000000
+      internalID: 6304754081542137830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 186
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a620a9d6330fd0800000000000000
+      internalID: -2376995869998800432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Verde_BackGround_Walls_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 186
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6933784348e060800000000000000
+      internalID: 6982905200687804045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheet_Verde_BackGround_Walls_0: 6475033955155577674
+      SpriteSheet_Verde_BackGround_Walls_1: 8665428419573943501
+      SpriteSheet_Verde_BackGround_Walls_10: 6304754081542137830
+      SpriteSheet_Verde_BackGround_Walls_11: -2376995869998800432
+      SpriteSheet_Verde_BackGround_Walls_12: 6982905200687804045
+      SpriteSheet_Verde_BackGround_Walls_2: 403167215009554435
+      SpriteSheet_Verde_BackGround_Walls_3: 917787376964237802
+      SpriteSheet_Verde_BackGround_Walls_4: -7205532927363366651
+      SpriteSheet_Verde_BackGround_Walls_5: -7764126533310870212
+      SpriteSheet_Verde_BackGround_Walls_6: -5249679044209702929
+      SpriteSheet_Verde_BackGround_Walls_7: -9061996910825765928
+      SpriteSheet_Verde_BackGround_Walls_8: -5697218693316150137
+      SpriteSheet_Verde_BackGround_Walls_9: 6806512522624541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

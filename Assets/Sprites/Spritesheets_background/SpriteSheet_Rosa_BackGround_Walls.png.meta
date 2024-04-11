@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 1d277431a6163a7438fcf1148180637f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -14673707699165382
+    second: SpriteSheet_Rosa_BackGround_Walls_0
+  - first:
+      213: -3800832003452316507
+    second: SpriteSheet_Rosa_BackGround_Walls_1
+  - first:
+      213: 6796914414789145736
+    second: SpriteSheet_Rosa_BackGround_Walls_2
+  - first:
+      213: 736783706808767794
+    second: SpriteSheet_Rosa_BackGround_Walls_3
+  - first:
+      213: -112358450678215044
+    second: SpriteSheet_Rosa_BackGround_Walls_4
+  - first:
+      213: -4219699567971358915
+    second: SpriteSheet_Rosa_BackGround_Walls_5
+  - first:
+      213: 238199157075344138
+    second: SpriteSheet_Rosa_BackGround_Walls_6
+  - first:
+      213: 6685834316471640437
+    second: SpriteSheet_Rosa_BackGround_Walls_7
+  - first:
+      213: -6938214490054925739
+    second: SpriteSheet_Rosa_BackGround_Walls_8
+  - first:
+      213: 587780255627492299
+    second: SpriteSheet_Rosa_BackGround_Walls_9
+  - first:
+      213: 3847694001778063190
+    second: SpriteSheet_Rosa_BackGround_Walls_10
+  - first:
+      213: -6064680415302155291
+    second: SpriteSheet_Rosa_BackGround_Walls_11
+  - first:
+      213: -2807337928652354190
+    second: SpriteSheet_Rosa_BackGround_Walls_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 298
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ad01375edbcff0800000000000000
+      internalID: -14673707699165382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 298
+        width: 190
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d9473e6bb04bc0800000000000000
+      internalID: -3800832003452316507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 228
+        width: 174
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8843d3e06ad735e50800000000000000
+      internalID: 6796914414789145736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 174
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d1a0b0e4993a00800000000000000
+      internalID: 736783706808767794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 240
+        width: 188
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ecfcb9592d07ef0800000000000000
+      internalID: -112358450678215044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 166
+        width: 188
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a230999d9075c0800000000000000
+      internalID: -4219699567971358915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 166
+        width: 183
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf54f0fd04e4300800000000000000
+      internalID: 238199157075344138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 160
+        width: 188
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a86443ead8cc50800000000000000
+      internalID: 6685834316471640437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 90
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552eec87ea286bf90800000000000000
+      internalID: -6938214490054925739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 90
+        width: 170
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3aae3707382800800000000000000
+      internalID: 587780255627492299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 90
+        width: 175
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657f1640f41c56530800000000000000
+      internalID: 3847694001778063190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 187
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e385a95b4de5dba0800000000000000
+      internalID: -6064680415302155291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_Rosa_BackGround_Walls_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 186
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d023e17055a09d0800000000000000
+      internalID: -2807337928652354190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheet_Rosa_BackGround_Walls_0: -14673707699165382
+      SpriteSheet_Rosa_BackGround_Walls_1: -3800832003452316507
+      SpriteSheet_Rosa_BackGround_Walls_10: 3847694001778063190
+      SpriteSheet_Rosa_BackGround_Walls_11: -6064680415302155291
+      SpriteSheet_Rosa_BackGround_Walls_12: -2807337928652354190
+      SpriteSheet_Rosa_BackGround_Walls_2: 6796914414789145736
+      SpriteSheet_Rosa_BackGround_Walls_3: 736783706808767794
+      SpriteSheet_Rosa_BackGround_Walls_4: -112358450678215044
+      SpriteSheet_Rosa_BackGround_Walls_5: -4219699567971358915
+      SpriteSheet_Rosa_BackGround_Walls_6: 238199157075344138
+      SpriteSheet_Rosa_BackGround_Walls_7: 6685834316471640437
+      SpriteSheet_Rosa_BackGround_Walls_8: -6938214490054925739
+      SpriteSheet_Rosa_BackGround_Walls_9: 587780255627492299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

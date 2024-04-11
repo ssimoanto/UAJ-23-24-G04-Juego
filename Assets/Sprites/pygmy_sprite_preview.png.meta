@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 5186f4533134c03fdb39e49f0cb6a0ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4539660280658648684
+    second: pygmy_sprite_preview_0
+  - first:
+      213: -5373628540552856716
+    second: pygmy_sprite_preview_1
+  - first:
+      213: -1737776195219602950
+    second: pygmy_sprite_preview_2
+  - first:
+      213: 8432102631780419406
+    second: pygmy_sprite_preview_3
+  - first:
+      213: 7128510870300646420
+    second: pygmy_sprite_preview_4
+  - first:
+      213: -8781612078168566997
+    second: pygmy_sprite_preview_5
+  - first:
+      213: 2888890965051204765
+    second: pygmy_sprite_preview_6
+  - first:
+      213: 4197636198652910398
+    second: pygmy_sprite_preview_7
+  - first:
+      213: 1673551644095582577
+    second: pygmy_sprite_preview_8
+  - first:
+      213: 1349267552638523315
+    second: pygmy_sprite_preview_9
+  - first:
+      213: 3593977013780734278
+    second: pygmy_sprite_preview_10
+  - first:
+      213: -8503294805853673345
+    second: pygmy_sprite_preview_11
+  - first:
+      213: 260271544527586221
+    second: pygmy_sprite_preview_12
+  - first:
+      213: 174706084008343180
+    second: pygmy_sprite_preview_13
+  - first:
+      213: -2324560491741980249
+    second: pygmy_sprite_preview_14
+  - first:
+      213: -4734120647586837298
+    second: pygmy_sprite_preview_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 674
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912462e603eff0c0800000000000000
+      internalID: -4539660280658648684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_1
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 4
+        width: 451
+        height: 1158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b327520590d65b0800000000000000
+      internalID: -5373628540552856716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 8
+        width: 699
+        height: 1144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14ec0f1cd22e7e0800000000000000
+      internalID: -1737776195219602950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_3
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 266
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4788ec1ba8d40570800000000000000
+      internalID: 8432102631780419406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_4
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 234
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd7c93ede8de260800000000000000
+      internalID: 7128510870300646420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_5
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 215
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b239b758752712680800000000000000
+      internalID: -8781612078168566997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_6
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 208
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9466b6d607671820800000000000000
+      internalID: 2888890965051204765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_7
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 208
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1705f1eff04a30800000000000000
+      internalID: 4197636198652910398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_8
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 199
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171969b7a56a93710800000000000000
+      internalID: 1673551644095582577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_9
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 190
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7dafdb0bf89b210800000000000000
+      internalID: 1349267552638523315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_10
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 148
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641e1556d0f50e130800000000000000
+      internalID: 3593977013780734278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_11
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 123
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78eaac2d6a3ef980800000000000000
+      internalID: -8503294805853673345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_12
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 90
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da385bc379bac9300800000000000000
+      internalID: 260271544527586221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_13
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 70
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ba6df14eac6200800000000000000
+      internalID: 174706084008343180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_14
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 56
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9dfce7c808dbfd0800000000000000
+      internalID: -2324560491741980249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pygmy_sprite_preview_15
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 25
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8ebc7a560d4eb0800000000000000
+      internalID: -4734120647586837298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pygmy_sprite_preview_0: -4539660280658648684
+      pygmy_sprite_preview_1: -5373628540552856716
+      pygmy_sprite_preview_10: 3593977013780734278
+      pygmy_sprite_preview_11: -8503294805853673345
+      pygmy_sprite_preview_12: 260271544527586221
+      pygmy_sprite_preview_13: 174706084008343180
+      pygmy_sprite_preview_14: -2324560491741980249
+      pygmy_sprite_preview_15: -4734120647586837298
+      pygmy_sprite_preview_2: -1737776195219602950
+      pygmy_sprite_preview_3: 8432102631780419406
+      pygmy_sprite_preview_4: 7128510870300646420
+      pygmy_sprite_preview_5: -8781612078168566997
+      pygmy_sprite_preview_6: 2888890965051204765
+      pygmy_sprite_preview_7: 4197636198652910398
+      pygmy_sprite_preview_8: 1673551644095582577
+      pygmy_sprite_preview_9: 1349267552638523315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 09fbf45478c46b44e91d6e00e5db470a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8173491991765190168
+    second: SpriteSheet_BackGround_Walls_0
+  - first:
+      213: 7077093723699678849
+    second: SpriteSheet_BackGround_Walls_1
+  - first:
+      213: -6676165379657989760
+    second: SpriteSheet_BackGround_Walls_2
+  - first:
+      213: 1613279559281608472
+    second: SpriteSheet_BackGround_Walls_3
+  - first:
+      213: -6079077258095576477
+    second: SpriteSheet_BackGround_Walls_4
+  - first:
+      213: 602242548622747403
+    second: SpriteSheet_BackGround_Walls_5
+  - first:
+      213: -6896577394873664341
+    second: SpriteSheet_BackGround_Walls_6
+  - first:
+      213: 8397411195377294186
+    second: SpriteSheet_BackGround_Walls_7
+  - first:
+      213: -8312635713350731859
+    second: SpriteSheet_BackGround_Walls_8
+  - first:
+      213: 5404130100192707175
+    second: SpriteSheet_BackGround_Walls_9
+  - first:
+      213: 769421647595966960
+    second: SpriteSheet_BackGround_Walls_10
+  - first:
+      213: -1992642471007494640
+    second: SpriteSheet_BackGround_Walls_11
+  - first:
+      213: -8960303879562809528
+    second: SpriteSheet_BackGround_Walls_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 298
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160aa759a31e6170800000000000000
+      internalID: 8173491991765190168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 298
+        width: 190
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0443ee33e63260800000000000000
+      internalID: 7077093723699678849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 227
+        width: 174
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08189b385fe7953a0800000000000000
+      internalID: -6676165379657989760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 232
+        width: 175
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817016e2635836610800000000000000
+      internalID: 1613279559281608472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 240
+        width: 188
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36abe0d2177c2aba0800000000000000
+      internalID: -6079077258095576477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 166
+        width: 185
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e84b38689b5800800000000000000
+      internalID: 602242548622747403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 166
+        width: 183
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacf094266f6a40a0800000000000000
+      internalID: -6896577394873664341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 160
+        width: 188
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b1a55adf8998470800000000000000
+      internalID: 8397411195377294186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 190
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f0866cd593ac80800000000000000
+      internalID: -8312635713350731859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 90
+        width: 171
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7628bfd91b35ffa40800000000000000
+      internalID: 5404130100192707175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 89
+        width: 175
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1147379e88daa00800000000000000
+      internalID: 769421647595966960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 190
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01edd37ea36b854e0800000000000000
+      internalID: -1992642471007494640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_BackGround_Walls_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 190
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84faa13681b96a380800000000000000
+      internalID: -8960303879562809528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheet_BackGround_Walls_0: 8173491991765190168
+      SpriteSheet_BackGround_Walls_1: 7077093723699678849
+      SpriteSheet_BackGround_Walls_10: 769421647595966960
+      SpriteSheet_BackGround_Walls_11: -1992642471007494640
+      SpriteSheet_BackGround_Walls_12: -8960303879562809528
+      SpriteSheet_BackGround_Walls_2: -6676165379657989760
+      SpriteSheet_BackGround_Walls_3: 1613279559281608472
+      SpriteSheet_BackGround_Walls_4: -6079077258095576477
+      SpriteSheet_BackGround_Walls_5: 602242548622747403
+      SpriteSheet_BackGround_Walls_6: -6896577394873664341
+      SpriteSheet_BackGround_Walls_7: 8397411195377294186
+      SpriteSheet_BackGround_Walls_8: -8312635713350731859
+      SpriteSheet_BackGround_Walls_9: 5404130100192707175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
