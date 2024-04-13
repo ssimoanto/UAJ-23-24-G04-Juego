@@ -1,4 +1,4 @@
-# c2021-Grupo08
+# Juego elegido para la práctica 3 de UAJ 23-24
 # Steam Mazehem
 ### _Proyect:OR Studios_
 #### Creators:
