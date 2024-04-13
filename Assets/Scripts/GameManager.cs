@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+using G04Telemetry;
 //Código implementado por:
 //EDUARDO GALLARDO
 
@@ -54,6 +54,7 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
+        G04Telemetry.Tracker.Init("MiPrueba",5.0f,G04Telemetry.SerializeType.JSON,G04Telemetry.PersistanceType.File,"MiFile");
         endCanvas.SetActive(false);
         levelCanvas.SetActive(false);
         pauseCanvas.SetActive(false);
