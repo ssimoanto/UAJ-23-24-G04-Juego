@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using G04Telemetry;
 //Código implementado por:
 //SIMONA ANTONOVA MIHAYLOVA Y EDUARDO GALLARDO
 
@@ -41,6 +41,7 @@ public class Puzzle : MonoBehaviour
                     {
                         if(hit.collider.gameObject == tile[i])
                         {
+                            G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.RoomMoveEvent());
                             emptyCube.position = cube[i].transform.position;
                             cube[i].transform.position = new Vector3(lastEmpty.x, lastEmpty.y, 0f);
                         }

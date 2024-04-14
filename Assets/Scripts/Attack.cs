@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using G04Telemetry;
 
 //Código implementado por:
 //SIMONA ANTONOVA MIHAYLOVA Y EDUARDO GALLARDO
@@ -41,6 +42,8 @@ public class Attack : MonoBehaviour
     
     void Attacking()
     {
+        print(G04Telemetry.Tracker.Instance());
+        G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.AttackEvent(this.transform.position.x, this.transform.position.y));
         // animacion del ataque
         animator.SetTrigger("IsAttacking");
         // detectar si el enemigo está en el rango de ataque a melee

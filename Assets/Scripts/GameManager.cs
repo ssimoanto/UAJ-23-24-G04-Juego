@@ -54,7 +54,7 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-        G04Telemetry.Tracker.Init("MiPrueba",5.0f,G04Telemetry.SerializeType.JSON,G04Telemetry.PersistanceType.File,"MiFile");
+        G04Telemetry.Tracker.Init("SteamMazehemGame",5.0f,G04Telemetry.SerializeType.JSON,G04Telemetry.PersistanceType.File,"MyFile");
         endCanvas.SetActive(false);
         levelCanvas.SetActive(false);
         pauseCanvas.SetActive(false);
@@ -62,6 +62,7 @@ public class GameManager : MonoBehaviour
     }
     void Update()
     {
+        G04Telemetry.Tracker.Instance().update(Time.deltaTime);
         if(SceneManager.GetActiveScene().name != "Menu")
         {
             menuCanvas.SetActive(false);

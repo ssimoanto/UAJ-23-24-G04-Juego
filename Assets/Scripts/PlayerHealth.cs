@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+using G04Telemetry;
 //Código implementado por:
 //SIMONA ANTONOVA MIHAYLOVA Y EDUARDO GALLARDO
 
@@ -43,6 +43,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (health<=0)
         {
+            G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerDeadEvent(this.transform.position.x, this.transform.position.y));
             GameManager.GetInstance().GameOver();
         }
     }
