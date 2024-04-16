@@ -86,6 +86,7 @@ public class EnemyAtkREMIX : MonoBehaviour
     {
         daCollider.enabled = true;
         yield return new WaitForSeconds(attackDuration * 0.1f);
+        G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerReceiveDamageEvent(G04Telemetry.EnemyType.Robot));
         imAngryWith.GetComponent<PlayerHealth>().TakeDamage(damage);
     }
 

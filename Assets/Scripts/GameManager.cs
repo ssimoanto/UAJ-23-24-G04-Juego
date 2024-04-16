@@ -14,8 +14,10 @@ public class GameManager : MonoBehaviour
     public GameObject menuCanvas, pauseCanvas, levelCanvas, endCanvas;
     public Text levelText, endText;
     public int duration;
-    int stage=1;
+    int stage = 1;
     bool gamePaused = false, menuoff = false;
+    [SerializeField]
+    string _fileName;
     void Awake() //Utilizamos awake en vez de Start para asegurarnos que la UIManager se inicia antes que cualquier otro componente de la escena
     {
         if (instance == null)
@@ -29,7 +31,7 @@ public class GameManager : MonoBehaviour
     {
         return instance;
     }
-    public void ChangeScene (string sceneName)
+    public void ChangeScene(string sceneName)
     {
         stage++;
         SceneManager.LoadScene(sceneName);
@@ -37,7 +39,13 @@ public class GameManager : MonoBehaviour
     }
     public void QuitGame()
     {
+        Tracker.Instance().closeTracker();
+
         Application.Quit();
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
     }
     public void NextLevel()
     {
@@ -54,7 +62,7 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-        G04Telemetry.Tracker.Init("SteamMazehemGame",5.0f,G04Telemetry.SerializeType.JSON,G04Telemetry.PersistanceType.File,"MyFile");
+        G04Telemetry.Tracker.Init("SteamMazehemGame", 5.0f, G04Telemetry.SerializeType.JSON, G04Telemetry.PersistanceType.File, _fileName);
         endCanvas.SetActive(false);
         levelCanvas.SetActive(false);
         pauseCanvas.SetActive(false);
@@ -63,23 +71,23 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         G04Telemetry.Tracker.Instance().update(Time.deltaTime);
-        if(SceneManager.GetActiveScene().name != "Menu")
+        if (SceneManager.GetActiveScene().name != "Menu")
         {
             menuCanvas.SetActive(false);
-            if(Input.GetKeyDown(KeyCode.Escape))
+            if (Input.GetKeyDown(KeyCode.Escape))
             {
-                if(gamePaused)
+                if (gamePaused)
                 {
-                    Return ();
+                    Return();
                 }
                 else
                 {
-                    Pause ();
+                    Pause();
                 }
             }
             levelText.text = SceneManager.GetActiveScene().name;
         }
-        else if(!menuoff)
+        else if (!menuoff)
         {
             menuCanvas.SetActive(true);
         }

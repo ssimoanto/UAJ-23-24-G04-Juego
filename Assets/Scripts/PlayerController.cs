@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
     public GameObject player;
     public float velocity = 5f, immunityPostHit = 0.5f;
     public Animator animator;
-    
+
     private float horizontal, vertical;
     private bool tiempoespera = false;
     private bool tiempogas = false;
@@ -32,11 +32,11 @@ public class PlayerController : MonoBehaviour
         initialPos = gameObject.transform.position;
     }
 
-     void Start()
-     {
+    void Start()
+    {
         StartCoroutine(Freeze());
         StartCoroutine(Startgame());
-     }
+    }
     void Update()
     {
         if (!disable)
@@ -44,15 +44,15 @@ public class PlayerController : MonoBehaviour
             horizontal = Input.GetAxisRaw("Horizontal");
             vertical = Input.GetAxisRaw("Vertical");
         }
-        animator.SetFloat("Speed", Mathf.Abs(horizontal)); 
+        animator.SetFloat("Speed", Mathf.Abs(horizontal));
         Control();
     }
     void Control()
     {
         rb.velocity = new Vector2(horizontal, vertical).normalized * velocity;
-        if(horizontal < -0.1f)
+        if (horizontal < -0.1f)
         {
-            if(mySpriteRenderer != null)
+            if (mySpriteRenderer != null)
             {
                 // flip the sprite
                 mySpriteRenderer.flipX = true;
@@ -63,18 +63,21 @@ public class PlayerController : MonoBehaviour
             mySpriteRenderer.flipX = false;
         }
     }
+    //cambiado
     private void OnTriggerEnter2D(Collider2D oneHitEnemy)
     {
         if (!tiempoespera)
         {
             if (oneHitEnemy.tag == "Sierra")
             {
+                G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerReceiveDamageEvent(G04Telemetry.EnemyType.Saw));
                 vida.TakeDamage(30);
                 tiempoespera = true;
                 StartCoroutine("EsperarGolpe");
             }
             else if (oneHitEnemy.tag == "Enemy")
             {
+                G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerReceiveDamageEvent(G04Telemetry.EnemyType.Spider));
                 vida.TakeDamage(50);
                 tiempoespera = true;
                 StartCoroutine("EsperarGolpe");
@@ -87,11 +90,13 @@ public class PlayerController : MonoBehaviour
         print("ha entrado");
         tiempoespera = false;
     }
-    
+    //cambiado
     private void OnTriggerStay2D(Collider2D gas)
     {
-        if(gas.tag == "Gas" && !tiempogas)
+        if (gas.tag == "Gas" && !tiempogas)
         {
+            //cambiar robot por "gas"
+            G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerReceiveDamageEvent(G04Telemetry.EnemyType.Sewer));
             vida.TakeDamage(10);
             spriteGas.enabled = true;
             tiempogas = true;
@@ -101,7 +106,7 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.tag == "Gas")
-        { 
+        {
             spriteGas.enabled = false;
         }
     }
@@ -109,13 +114,13 @@ public class PlayerController : MonoBehaviour
     public IEnumerator EsperarGas()
     {
         yield return new WaitForSeconds(2);
-        tiempogas = false;    
+        tiempogas = false;
     }
     public IEnumerator Freeze()
     {
-        disable = true;      
+        disable = true;
         yield return new WaitForSeconds(15);
-        
+
     }
     public IEnumerator Startgame()
     {
