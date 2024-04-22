@@ -998,7 +998,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Level 1
+          m_StringArgument: Level1
           m_BoolArgument: 0
         m_CallState: 1
 --- !u!1 &755528376
@@ -3542,7 +3542,7 @@ PrefabInstance:
     - target: {fileID: 8019315477966746552, guid: a3fd265ee5d643f40886db4a78b6f2ac,
         type: 3}
       propertyPath: _fileName
-      value: MyFile5
+      value: PruebasNivel
       objectReference: {fileID: 0}
     - target: {fileID: 8019315477966746552, guid: a3fd265ee5d643f40886db4a78b6f2ac,
         type: 3}
@@ -3597,12 +3597,12 @@ PrefabInstance:
     - target: {fileID: 8019315477966746552, guid: a3fd265ee5d643f40886db4a78b6f2ac,
         type: 3}
       propertyPath: scenesInOrder.Array.data[1]
-      value: Level 1
+      value: Level1
       objectReference: {fileID: 0}
     - target: {fileID: 8019315477966746552, guid: a3fd265ee5d643f40886db4a78b6f2ac,
         type: 3}
       propertyPath: scenesInOrder.Array.data[2]
-      value: Level 2
+      value: Level2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

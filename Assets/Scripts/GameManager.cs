@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using G04Telemetry;
+using System;
 //Código implementado por:
 //EDUARDO GALLARDO
 
@@ -33,6 +34,11 @@ public class GameManager : MonoBehaviour
     }
     public void ChangeScene(string sceneName)
     {
+        //mandar evento inicio nivel
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(sceneName, out G04Telemetry.LevelEnum sceneEnumValue))
+        {
+            G04Telemetry.Tracker.Instance().startLevel(sceneEnumValue);
+        }
         stage++;
         SceneManager.LoadScene(sceneName);
         StartCoroutine(Timer());
@@ -51,12 +57,16 @@ public class GameManager : MonoBehaviour
     {
         if (stage >= scenesInOrder.Length)
         {
+            //fin nivel 2
+            G04Telemetry.Tracker.Instance().endLevel(LevelEnum.Level2, LevelEnd.Win);
             endText.text = "You won";
             StartCoroutine(End());
             ReturnMenu();
         }
         else
         {
+            //fin nivel 1
+            G04Telemetry.Tracker.Instance().endLevel(LevelEnum.Level1, LevelEnd.Win);
             ChangeScene(scenesInOrder[stage]);
         }
     }
