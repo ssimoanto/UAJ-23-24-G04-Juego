@@ -990,9 +990,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 485957358}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: ChangeScene
-        m_Mode: 5
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: startGame
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -3542,7 +3542,7 @@ PrefabInstance:
     - target: {fileID: 8019315477966746552, guid: a3fd265ee5d643f40886db4a78b6f2ac,
         type: 3}
       propertyPath: _fileName
-      value: Traza
+      value: Cosas2
       objectReference: {fileID: 0}
     - target: {fileID: 8019315477966746552, guid: a3fd265ee5d643f40886db4a78b6f2ac,
         type: 3}

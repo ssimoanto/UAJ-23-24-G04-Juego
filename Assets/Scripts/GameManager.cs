@@ -43,6 +43,15 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(sceneName);
         StartCoroutine(Timer());
     }
+    /// <summary>
+    /// Cambiado
+    /// </summary>
+    /// 
+    public void startGame()
+    {
+        G04Telemetry.Tracker.Instance().startGame();
+        ChangeScene("Level1");
+    }
     public void QuitGame()
     {
         Tracker.Instance().closeTracker();
