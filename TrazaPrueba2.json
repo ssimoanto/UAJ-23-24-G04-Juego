@@ -1,0 +1,197 @@
+{"data":[
+{
+  "eventId": 0,
+  "timestamp": 1713883738406,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "Game": "SteamMazehemGame"
+},{
+  "eventId": 4,
+  "timestamp": 1713883740545,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "LevelID": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883763993,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 2
+},{
+  "eventId": 10,
+  "timestamp": 1713883766554,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 2
+},{
+  "eventId": 10,
+  "timestamp": 1713883769113,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 2
+},{
+  "eventId": 10,
+  "timestamp": 1713883777504,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883778508,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883779517,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883780518,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883781525,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883782534,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883783540,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883784547,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883785550,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883786557,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 10,
+  "timestamp": 1713883787565,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 0
+},{
+  "eventId": 11,
+  "timestamp": 1713883787568,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4"
+},{
+  "eventId": 5,
+  "timestamp": 1713883787568,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "LevelID": 0,
+  "LevelEnd": 1
+},{
+  "eventId": 4,
+  "timestamp": 1713883792085,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "LevelID": 0
+},{
+  "eventId": 12,
+  "timestamp": 1713883820370,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4"
+},{
+  "eventId": 12,
+  "timestamp": 1713883823897,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4"
+},{
+  "eventId": 12,
+  "timestamp": 1713883824704,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4"
+},{
+  "eventId": 10,
+  "timestamp": 1713883839068,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 2
+},{
+  "eventId": 5,
+  "timestamp": 1713883841046,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "LevelID": 0,
+  "LevelEnd": 0
+},{
+  "eventId": 4,
+  "timestamp": 1713883841046,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "LevelID": 1
+},{
+  "eventId": 10,
+  "timestamp": 1713883860305,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 2
+},{
+  "eventId": 10,
+  "timestamp": 1713883864722,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 1
+},{
+  "eventId": 10,
+  "timestamp": 1713883869542,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 1
+},{
+  "eventId": 10,
+  "timestamp": 1713883875284,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 1
+},{
+  "eventId": 10,
+  "timestamp": 1713883878146,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "EnemyType": 1
+},{
+  "eventId": 11,
+  "timestamp": 1713883878146,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4"
+},{
+  "eventId": 5,
+  "timestamp": 1713883878146,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4",
+  "LevelID": 1,
+  "LevelEnd": 1
+},{
+  "eventId": 1,
+  "timestamp": 1713883884257,
+  "Session": "736079cd-3fc4-4cbd-bd65-26bac72c4d22",
+  "User": "18f00738-4913-4313-8a1d-c98b98045bf4"
+}]}

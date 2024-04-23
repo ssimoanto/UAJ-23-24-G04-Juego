@@ -154,6 +154,10 @@ public class GameManager : MonoBehaviour
     }
     public void GameOver()
     {
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage-1], out G04Telemetry.LevelEnum sceneEnumValue))
+        {
+            G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Loose);
+        }
         endText.text = "Game Over";
         StartCoroutine(End());
         ReturnMenu();
