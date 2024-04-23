@@ -113,7 +113,7 @@ public class GameManager : MonoBehaviour
     }
     void ReturnMenu()
     {
-        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage], out G04Telemetry.LevelEnum sceneEnumValue))
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage-1], out G04Telemetry.LevelEnum sceneEnumValue))
         {
             G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Other);
         }
@@ -159,7 +159,7 @@ public class GameManager : MonoBehaviour
     }
     public void GameOver()
     {
-        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage], out G04Telemetry.LevelEnum sceneEnumValue))
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage-1], out G04Telemetry.LevelEnum sceneEnumValue))
         {
             G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Loose);
         }
