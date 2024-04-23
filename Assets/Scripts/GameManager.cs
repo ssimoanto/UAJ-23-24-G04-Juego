@@ -111,12 +111,18 @@ public class GameManager : MonoBehaviour
     }
     public void Return()
     {
+        //reanudar
+        G04Telemetry.Tracker.Instance().resume();
+
         pauseCanvas.SetActive(false);
         Time.timeScale = 1f;
         gamePaused = false;
     }
     void Pause()
     {
+        //pausar
+        G04Telemetry.Tracker.Instance().pause();
+
         pauseCanvas.SetActive(true);
         Time.timeScale = 0f;
         gamePaused = true;
