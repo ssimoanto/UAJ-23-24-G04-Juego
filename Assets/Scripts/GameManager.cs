@@ -120,6 +120,7 @@ public class GameManager : MonoBehaviour
         {
             G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Other);
         }
+        G04Telemetry.Tracker.Instance().endGame();
         SceneManager.LoadScene("Menu");
     }
     public void Return()
