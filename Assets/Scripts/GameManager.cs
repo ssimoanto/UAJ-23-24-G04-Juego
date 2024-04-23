@@ -113,13 +113,13 @@ public class GameManager : MonoBehaviour
     }
     void ReturnMenu()
     {
-        stage = 1;
-        pauseCanvas.SetActive(false);
-        Time.timeScale = 1f;
-        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage - 1], out G04Telemetry.LevelEnum sceneEnumValue))
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage], out G04Telemetry.LevelEnum sceneEnumValue))
         {
             G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Other);
         }
+        stage = 1;
+        pauseCanvas.SetActive(false);
+        Time.timeScale = 1f;
         G04Telemetry.Tracker.Instance().endGame();
         SceneManager.LoadScene("Menu");
     }
@@ -159,7 +159,7 @@ public class GameManager : MonoBehaviour
     }
     public void GameOver()
     {
-        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage-1], out G04Telemetry.LevelEnum sceneEnumValue))
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage], out G04Telemetry.LevelEnum sceneEnumValue))
         {
             G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Loose);
         }
