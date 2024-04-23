@@ -1,0 +1,84 @@
+{"data":[
+{
+  "eventType": 0,
+  "IDEvent": "2098e7da-65ec-471e-a381-ceb329394fc7",
+  "timestamp": 1713895975360,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828",
+  "Game": "SteamMazehemGame"
+},{
+  "eventType": 2,
+  "IDEvent": "54bc57b8-78d9-45b2-8373-b980ffcf3a2e",
+  "timestamp": 1713895976590,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 4,
+  "IDEvent": "76261c34-51c9-4bc1-85d0-ab3334c9357d",
+  "timestamp": 1713895976590,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828",
+  "LevelID": 1
+},{
+  "eventType": 6,
+  "IDEvent": "dc6dfa03-c5d4-4892-b1f4-1c1dcc660a5e",
+  "timestamp": 1713895998159,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 7,
+  "IDEvent": "3968ee92-7c28-44b1-991b-dee84a5a718b",
+  "timestamp": 1713895999120,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 6,
+  "IDEvent": "38a42c4d-5cc2-480f-b18c-dea00c120f2d",
+  "timestamp": 1713896001454,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 7,
+  "IDEvent": "b2f821f8-d045-4b79-bd3d-3d99336391eb",
+  "timestamp": 1713896002658,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 6,
+  "IDEvent": "2075f0f8-825d-4d09-b559-78fd1c92cd75",
+  "timestamp": 1713896008187,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 7,
+  "IDEvent": "963b2516-5cd4-4638-bc91-271c8a95554e",
+  "timestamp": 1713896009752,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 6,
+  "IDEvent": "92ab374c-6b06-4ed4-a6b2-93f72e907ad2",
+  "timestamp": 1713896010185,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 5,
+  "IDEvent": "0112af5f-a89a-48e2-a7b6-71fd71c69167",
+  "timestamp": 1713896010831,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828",
+  "LevelID": 1,
+  "LevelEnd": 2
+},{
+  "eventType": 3,
+  "IDEvent": "281f11a1-0439-43cc-bdd5-c78f0362065b",
+  "timestamp": 1713896010832,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+},{
+  "eventType": 1,
+  "IDEvent": "abf4abc4-f504-41ec-bcda-72e4f960dbc8",
+  "timestamp": 1713896011706,
+  "Session": "9eb1a6b0-c93f-40fa-878f-4efa0422c2df",
+  "User": "0aa4d36c-a5bc-40ed-b00a-f36709fea828"
+}]}

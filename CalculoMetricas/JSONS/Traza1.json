@@ -1,0 +1,536 @@
+{"data":[
+{
+  "eventType": 0,
+  "IDEvent": "a3ca4f8d-6e8e-4df2-8ec4-2700157b4758",
+  "timestamp": 1713895568188,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "Game": "SteamMazehemGame"
+},{
+  "eventType": 2,
+  "IDEvent": "1b0acc92-fb02-40ba-b652-24024b925af8",
+  "timestamp": 1713895573403,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 4,
+  "IDEvent": "80845f98-cfff-480e-87b3-4bc0e74e1e14",
+  "timestamp": 1713895573403,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 1
+},{
+  "eventType": 8,
+  "IDEvent": "296dc9ed-0d83-4f2c-9faa-a5535e5e17f6",
+  "timestamp": 1713895584980,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 6,
+  "IDEvent": "6c2a39b0-e786-4a59-97d5-a886be613688",
+  "timestamp": 1713895598017,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 7,
+  "IDEvent": "44f8768f-02b8-4688-ae59-028006421f17",
+  "timestamp": 1713895602371,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "fe55d14a-fa84-42f4-9364-64265d370868",
+  "timestamp": 1713895608632,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 10,
+  "IDEvent": "370a60d7-7a41-4421-8252-45f851abec76",
+  "timestamp": 1713895610226,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 8,
+  "IDEvent": "24b4bb1f-b59f-4697-9b59-3e89e3a4ac86",
+  "timestamp": 1713895610359,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "d30cd670-5aea-453b-acec-97477e18d52a",
+  "timestamp": 1713895610360,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "26f020bb-aaee-4ece-aabf-54f7bd16315e",
+  "timestamp": 1713895611233,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 8,
+  "IDEvent": "4ad8d0bc-9e6f-427b-88f1-b77f532cabbb",
+  "timestamp": 1713895611406,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "79bffb65-4686-439f-ab4d-4ca53d9f7873",
+  "timestamp": 1713895611406,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "fe3e8246-dc40-413b-8e31-88f7f1d83bb6",
+  "timestamp": 1713895615665,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "292e5694-5ea3-4312-bd48-2e1025e0b1a9",
+  "timestamp": 1713895616003,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "b7415d1f-3d06-4623-8f35-dee30a67aaa5",
+  "timestamp": 1713895616663,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 8,
+  "IDEvent": "0c75e886-cfe6-4922-b6c1-93f498850f85",
+  "timestamp": 1713895618649,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 8,
+  "IDEvent": "56cc1fda-df6a-48bf-9dac-7e23f4346705",
+  "timestamp": 1713895623034,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "e9fe5a30-31fe-42d8-a468-772abee14562",
+  "timestamp": 1713895623034,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "76d6cda2-6cd2-4279-8df7-41b2bfa3fd66",
+  "timestamp": 1713895623069,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 10,
+  "IDEvent": "0d66060e-5a91-467a-bbb3-d08e5d1de670",
+  "timestamp": 1713895624071,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 8,
+  "IDEvent": "d2d14f16-2632-4090-a1f1-8adc1cdbc817",
+  "timestamp": 1713895624203,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "a934c29c-75f1-4772-bf97-e39274d77be7",
+  "timestamp": 1713895624203,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "e3ea5905-2b3e-4c2d-b2b5-476bebc9d5e8",
+  "timestamp": 1713895632605,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 2
+},{
+  "eventType": 6,
+  "IDEvent": "18dba918-36e7-4d08-ab4d-7e3a97612b9f",
+  "timestamp": 1713895637614,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 7,
+  "IDEvent": "2c7cb1aa-12c5-4e18-a53e-aba65f5df5bd",
+  "timestamp": 1713895638055,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 5,
+  "IDEvent": "c8235f44-f6ce-4ac4-a0f3-f41bc6790660",
+  "timestamp": 1713895639107,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 1,
+  "LevelEnd": 0
+},{
+  "eventType": 4,
+  "IDEvent": "0f83c923-f481-4a40-bdd0-ceb6ecec3899",
+  "timestamp": 1713895639107,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 2
+},{
+  "eventType": 10,
+  "IDEvent": "e49334d2-6804-40ff-938f-e487651d93b4",
+  "timestamp": 1713895660618,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 3
+},{
+  "eventType": 10,
+  "IDEvent": "f0598c05-f710-40cb-b8f7-80e4c5f9f3cd",
+  "timestamp": 1713895670181,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 3
+},{
+  "eventType": 12,
+  "IDEvent": "f62b1a59-fa37-4291-a44b-c7fc2703b964",
+  "timestamp": 1713895672533,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "63a5c85b-e2af-4e7a-b394-4537f3ce025b",
+  "timestamp": 1713895673291,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "528dc853-eaf0-481d-ab42-b262143cf2db",
+  "timestamp": 1713895673692,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "39388614-c2bc-4583-8e7a-a55bf5ccc1e1",
+  "timestamp": 1713895674029,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "3acaacf2-c10d-4962-888f-4a37d0c83030",
+  "timestamp": 1713895674451,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "f26ff716-8b3e-46a0-a6ff-133fb495345f",
+  "timestamp": 1713895674730,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "9dfc1ed8-5229-4786-a0f2-fb2fffb3c5c9",
+  "timestamp": 1713895675901,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "74637e9f-4542-40f9-a925-342d620b0c8e",
+  "timestamp": 1713895678186,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "e0ce788b-99ef-4716-9a47-dffd162676f1",
+  "timestamp": 1713895678772,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "f6df5e7a-0430-4382-b8e4-4c24dd48ca6a",
+  "timestamp": 1713895692133,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "97646976-ac6d-41aa-8563-a4b2ea2c35ef",
+  "timestamp": 1713895692587,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "58a2c7f8-4609-4868-93f4-48ffdd1374b0",
+  "timestamp": 1713895697661,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 2
+},{
+  "eventType": 12,
+  "IDEvent": "a15a8f1f-c8db-482e-8f2b-4eb103e26989",
+  "timestamp": 1713895712547,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "fdca8014-410c-4da3-84aa-59c74db58ec3",
+  "timestamp": 1713895713509,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "c26c2f84-2973-430c-9ef7-a20e591b1e28",
+  "timestamp": 1713895715154,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "3ac8fa92-9ae0-4d8e-8f8e-83da61876a7f",
+  "timestamp": 1713895715684,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "45d615a1-cdda-443d-9807-3cf59ca1247d",
+  "timestamp": 1713895719046,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 1
+},{
+  "eventType": 10,
+  "IDEvent": "46a5838a-9aab-4f54-8174-31f9c59524d4",
+  "timestamp": 1713895719390,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 8,
+  "IDEvent": "69dd7496-65a5-4ba9-9bb2-c52bf0e28c12",
+  "timestamp": 1713895719667,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "d4dceef6-1095-48c4-857c-df326c51b459",
+  "timestamp": 1713895719667,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "93723412-bde5-4f72-8403-f04cbe453cde",
+  "timestamp": 1713895720394,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 0
+},{
+  "eventType": 8,
+  "IDEvent": "39c058fb-d18e-4e3a-bde2-d3ab8eb91e8b",
+  "timestamp": 1713895720780,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "a2a65169-a7dd-4339-b4f4-049d4a0a2950",
+  "timestamp": 1713895720780,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 6,
+  "IDEvent": "e0319fe1-5580-4369-b1d0-7dffba70d46f",
+  "timestamp": 1713895723075,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 7,
+  "IDEvent": "892bfc35-1c55-443e-a958-d30a993f6f30",
+  "timestamp": 1713895725048,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "4c261e20-ce12-4d08-ad49-3d34557fa077",
+  "timestamp": 1713895733364,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "d34a250f-77a8-47a5-b27e-25f0145c48c5",
+  "timestamp": 1713895737765,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "b2f5831a-4aa5-47ae-bc9f-0743a4e878c2",
+  "timestamp": 1713895738628,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "24dc5577-5fcb-4641-abc1-86f020295f0f",
+  "timestamp": 1713895743658,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 2
+},{
+  "eventType": 12,
+  "IDEvent": "30e30631-4021-4616-9c37-c255994f6a0a",
+  "timestamp": 1713895746470,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "df152819-8f14-4064-8c0b-80a56f98ca0e",
+  "timestamp": 1713895747111,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "df79e60f-a756-420d-bc67-d1ba5f6a18aa",
+  "timestamp": 1713895756270,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "0f237870-65c5-408b-8150-46b7090b6842",
+  "timestamp": 1713895758588,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "467bd881-7ad0-499f-90ed-fe506775aeb4",
+  "timestamp": 1713895769596,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 3
+},{
+  "eventType": 10,
+  "IDEvent": "57e6b7e0-a816-4927-93e1-5e1d4d031a8d",
+  "timestamp": 1713895780416,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 1
+},{
+  "eventType": 8,
+  "IDEvent": "83bdf023-84ec-40bc-91cb-eca55efaec48",
+  "timestamp": 1713895780537,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 9,
+  "IDEvent": "57b7587b-6842-49f7-bd69-02c9ef497aff",
+  "timestamp": 1713895780537,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 8,
+  "IDEvent": "a96a2501-5ae8-4a50-8665-5423698d7d13",
+  "timestamp": 1713895781949,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "9b51a8bf-ede5-478d-96ba-59a57881a931",
+  "timestamp": 1713895791538,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 2
+},{
+  "eventType": 10,
+  "IDEvent": "7a6cb879-f793-4d26-bcf3-f845851d2321",
+  "timestamp": 1713895794199,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 3
+},{
+  "eventType": 12,
+  "IDEvent": "065bd1ce-b931-415c-9771-bf428710a16c",
+  "timestamp": 1713895796944,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 12,
+  "IDEvent": "91e01bc4-8a5e-46bb-896b-3ccd980e28ed",
+  "timestamp": 1713895797445,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 10,
+  "IDEvent": "0263518d-e8da-4179-8532-98f1ffc5e856",
+  "timestamp": 1713895803648,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "EnemyType": 1
+},{
+  "eventType": 11,
+  "IDEvent": "b484bf37-40f9-47d5-a829-cd111493bbe3",
+  "timestamp": 1713895803649,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 5,
+  "IDEvent": "7bbe96f3-0e30-4af1-bac8-44667f5bc98a",
+  "timestamp": 1713895803649,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 2,
+  "LevelEnd": 1
+},{
+  "eventType": 3,
+  "IDEvent": "9c5e32e3-ed2c-4c82-b75d-4164a5ac5fe9",
+  "timestamp": 1713895803649,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 5,
+  "IDEvent": "5ad6d982-c474-4a1f-8c5a-c5ca7ebfabbf",
+  "timestamp": 1713895803649,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 2,
+  "LevelEnd": 2
+},{
+  "eventType": 3,
+  "IDEvent": "9addb4d1-5950-4b92-a4bb-a049e7efe25d",
+  "timestamp": 1713895803649,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 2,
+  "IDEvent": "80f100a7-b968-4f54-b5ff-29c0c03a8d26",
+  "timestamp": 1713895807733,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 4,
+  "IDEvent": "af6cbb42-21d4-4170-8856-92bcb81702f6",
+  "timestamp": 1713895807733,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 1
+},{
+  "eventType": 6,
+  "IDEvent": "5c8b8d2c-967d-4496-8824-db6c5fc6a16a",
+  "timestamp": 1713895825695,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 5,
+  "IDEvent": "f055feef-a698-427e-9cfb-3e04bdb0034a",
+  "timestamp": 1713895826533,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5",
+  "LevelID": 1,
+  "LevelEnd": 2
+},{
+  "eventType": 3,
+  "IDEvent": "3282dc7f-8492-44c4-b19a-d4ed78b2286e",
+  "timestamp": 1713895826533,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+},{
+  "eventType": 1,
+  "IDEvent": "e8e93a6f-0749-4a56-ab9f-53f5da384340",
+  "timestamp": 1713895827478,
+  "Session": "8b874767-66b3-4a16-b476-395aee5bfb57",
+  "User": "602a11e8-41e8-4318-bcbf-52702a20b6f5"
+}]}
