@@ -158,6 +158,7 @@ public class GameManager : MonoBehaviour
         {
             G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Loose);
         }
+        G04Telemetry.Tracker.Instance().endGame();
         endText.text = "Game Over";
         StartCoroutine(End());
         ReturnMenu();
