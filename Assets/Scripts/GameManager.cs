@@ -116,6 +116,10 @@ public class GameManager : MonoBehaviour
         stage = 1;
         pauseCanvas.SetActive(false);
         Time.timeScale = 1f;
+        if (Enum.TryParse<G04Telemetry.LevelEnum>(scenesInOrder[stage - 1], out G04Telemetry.LevelEnum sceneEnumValue))
+        {
+            G04Telemetry.Tracker.Instance().endLevel(sceneEnumValue, LevelEnd.Other);
+        }
         SceneManager.LoadScene("Menu");
     }
     public void Return()
