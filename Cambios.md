@@ -61,6 +61,8 @@ int stage = 1;
             ChangeScene(scenesInOrder[stage]);
         }
         //...
+        goMenuAfterLevel();
+        //...
     }
     //...
     public void startGame()
@@ -78,6 +80,17 @@ int stage = 1;
         }
          G04Telemetry.Tracker.Instance().endGame();
         //...
+                goMenuAfterLevel();
+        //...
+    }
+    //...
+        void goMenuAfterLevel()
+    {
+        stage = 1;
+        pauseCanvas.SetActive(false);
+        Time.timeScale = 1f;
+        G04Telemetry.Tracker.Instance().endGame();
+        SceneManager.LoadScene("Menu");
     }
     //...
      void ReturnMenu()
