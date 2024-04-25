@@ -1,0 +1,234 @@
+{"data":[
+{
+  "eventType": 0,
+  "IDEvent": "840d8a1e-eeb1-4505-b4c7-54fdfe37d701",
+  "timestamp": 1714071520917,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "Game": "SteamMazehemGame"
+},{
+  "eventType": 2,
+  "IDEvent": "817957d3-30fc-413a-bcde-fe61f0277a1d",
+  "timestamp": 1714071523468,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055"
+},{
+  "eventType": 4,
+  "IDEvent": "d398e24b-d2b9-440d-8fd8-c147c801d6e0",
+  "timestamp": 1714071523468,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "Level": 1,
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb"
+},{
+  "eventType": 12,
+  "IDEvent": "5c78027b-30c8-40a5-b323-569cd1643ef3",
+  "timestamp": 1714071548104,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 1
+},{
+  "eventType": 12,
+  "IDEvent": "fce2e646-a3ca-47a6-8eef-45e50f8d3ed2",
+  "timestamp": 1714071552104,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 1
+},{
+  "eventType": 12,
+  "IDEvent": "3b7b9107-70f8-4b2a-9a1f-dd71c1ea7e77",
+  "timestamp": 1714071552496,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 1
+},{
+  "eventType": 6,
+  "IDEvent": "10acca70-1e93-4a87-bfe1-2640de0fcd77",
+  "timestamp": 1714071565208,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055"
+},{
+  "eventType": 7,
+  "IDEvent": "849d8b8f-31b6-49e7-a431-7c83e676958d",
+  "timestamp": 1714071635353,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055"
+},{
+  "eventType": 5,
+  "IDEvent": "efd0fe08-608c-4125-952b-3115ee89d209",
+  "timestamp": 1714071637580,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "Level": 1,
+  "LevelEnd": 0,
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb"
+},{
+  "eventType": 4,
+  "IDEvent": "ceabd5fb-8090-4dcc-9863-ada60906f1fe",
+  "timestamp": 1714071637580,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "Level": 2,
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb"
+},{
+  "eventType": 12,
+  "IDEvent": "c4232d7e-a91f-4ccb-84ad-de6a118588be",
+  "timestamp": 1714071658289,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 12,
+  "IDEvent": "0e149a6b-28f2-4a9f-aef2-d633b57c9aa5",
+  "timestamp": 1714071659258,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 12,
+  "IDEvent": "d1a65fa5-5b4d-495b-9f2e-2ab609356bbe",
+  "timestamp": 1714071660143,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 12,
+  "IDEvent": "9783ef87-dd22-4086-9cc6-9da85d3c9666",
+  "timestamp": 1714071664065,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 12,
+  "IDEvent": "fe71e36b-f060-4a51-bb6f-a5615c851d8b",
+  "timestamp": 1714071664416,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 12,
+  "IDEvent": "7de32868-70cf-42c3-9a12-a7932a15afc0",
+  "timestamp": 1714071664809,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 12,
+  "IDEvent": "e807af25-1bd5-49f9-b2e0-fcf948de4deb",
+  "timestamp": 1714071669671,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2
+},{
+  "eventType": 10,
+  "IDEvent": "faea1ca8-8ee8-4ffc-bb24-8d198f43b910",
+  "timestamp": 1714071669756,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 2
+},{
+  "eventType": 10,
+  "IDEvent": "9b50860f-7faf-4788-bcb1-41b140e06143",
+  "timestamp": 1714071673599,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 2
+},{
+  "eventType": 10,
+  "IDEvent": "8ad31c82-4842-4a32-bd1d-67f27be2c8d9",
+  "timestamp": 1714071676981,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 3
+},{
+  "eventType": 10,
+  "IDEvent": "423392aa-9c44-4647-aba9-2503809358bb",
+  "timestamp": 1714071682136,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 3
+},{
+  "eventType": 10,
+  "IDEvent": "51ee6c1f-32c7-48ee-87e1-2e8df2a9f04a",
+  "timestamp": 1714071688478,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 2
+},{
+  "eventType": 10,
+  "IDEvent": "d66f8ca3-3a31-4390-97e3-0d5d7fd9ea36",
+  "timestamp": 1714071692780,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 1
+},{
+  "eventType": 10,
+  "IDEvent": "060aa4f0-2e69-4fcf-b2ba-4c0d8c49d21b",
+  "timestamp": 1714071694539,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 3
+},{
+  "eventType": 10,
+  "IDEvent": "f3a1cf35-a6e9-47a8-bdee-7a6138781bba",
+  "timestamp": 1714071696561,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 3
+},{
+  "eventType": 10,
+  "IDEvent": "4a262542-3e43-4878-b66b-d598b4d15946",
+  "timestamp": 1714071696820,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb",
+  "Level": 2,
+  "EnemyType": 0
+},{
+  "eventType": 5,
+  "IDEvent": "a7622f71-e40e-46d0-846a-7d045cb15bb4",
+  "timestamp": 1714071702040,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055",
+  "Level": 2,
+  "LevelEnd": 0,
+  "GameSession": "1b799a2d-8f4a-4066-93a3-7190f06668bb"
+},{
+  "eventType": 3,
+  "IDEvent": "2bc56469-0c58-48b6-b13e-383527f59e57",
+  "timestamp": 1714071702041,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055"
+},{
+  "eventType": 1,
+  "IDEvent": "56413f7e-c48c-470f-b288-ea3a952e0184",
+  "timestamp": 1714071706390,
+  "Session": "9ba5c4b0-1124-44cc-bac8-e4f37815c72d",
+  "User": "c71ea794-f4cb-4b26-8158-4402a6061055"
+}]}
