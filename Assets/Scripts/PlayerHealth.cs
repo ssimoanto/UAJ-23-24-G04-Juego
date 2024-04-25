@@ -43,7 +43,6 @@ public class PlayerHealth : MonoBehaviour
     {
         if (health<=0)
         {
-            G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerDeadEvent());
             GameManager.GetInstance().GameOver();
         }
     }
