@@ -70,7 +70,7 @@ public class GameManager : MonoBehaviour
             G04Telemetry.Tracker.Instance().endLevel(LevelEnum.Level2, LevelEnd.Win);
             endText.text = "You won";
             StartCoroutine(End());
-            ReturnMenu();
+            goMenuAfterLevel();
         }
         else
         {
@@ -123,6 +123,15 @@ public class GameManager : MonoBehaviour
         G04Telemetry.Tracker.Instance().endGame();
         SceneManager.LoadScene("Menu");
     }
+    //nuevo metodo para que haya diferencia entre perder/ganar y salir a la hora de no mandar levelend repetido
+    void goMenuAfterLevel()
+    {
+        stage = 1;
+        pauseCanvas.SetActive(false);
+        Time.timeScale = 1f;
+        G04Telemetry.Tracker.Instance().endGame();
+        SceneManager.LoadScene("Menu");
+    }
     public void Return()
     {
         //reanudar
@@ -166,7 +175,8 @@ public class GameManager : MonoBehaviour
         G04Telemetry.Tracker.Instance().endGame();
         endText.text = "Game Over";
         StartCoroutine(End());
-        ReturnMenu();
+        goMenuAfterLevel();
+
     }
     public void Sounds(int n)
     {
