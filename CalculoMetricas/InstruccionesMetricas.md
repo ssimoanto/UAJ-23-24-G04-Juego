@@ -1,5 +1,5 @@
 # INSTRUCCIONES CÁLCULO DE MÉTRICAS- GRUPO 04
-En este documento se van a dar unas breves instrucciones de como ejecutar nuestro cáculo de métricas.
+En este documento se van a dar unas breves instrucciones de cómo ejecutar nuestro cálculo de métricas.
 
 En esta carpeta, tenemos el archivo [`CalculoMetricasGrupo04.ipynb`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main/CalculoMetricas/CalculoMetricasGrupo04.ipynb), en el cual se llevan a cabo los cálculos en base a las trazas proporcionadas.
 
