@@ -430,7 +430,7 @@ else:
     
 
 # Métrica 4: Impactos de los elementos dañinos
-Se estudiará la distribución del número de veces que cada elemento dañino(enemigos, sierra, alcantarilla) impacta al jugador. Se calculará el porcentaje de impactos de cada obstáculo con respecto al total de impactos.
+¿Es coherente la variación de impactos provocados por cada elemento dañino a lo largo de los dos niveles?
 
 
 
