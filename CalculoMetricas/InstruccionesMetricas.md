@@ -13,6 +13,6 @@ En esta carpeta, tenemos el archivo [`CalculoMetricasGrupo04.ipynb`](https://git
    - Abre tu terminal o consola.
    - Navega hasta la carpeta principal del repositorio.
    - Ejecuta Jupyter Notebook.
-   - Una vez en Jupyter Notebook, navega hasta la carpeta [`CalculoMetricasGrupo04`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main/CalculoMetricas/CalculoMetricasGrupo04) y abre el archivo [`CalculoMetricasGrupo04.ipynb`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main/CalculoMetricas/CalculoMetricasGrupo04.ipynb)
+   - Una vez en Jupyter Notebook, navega hasta la carpeta [`CalculoMetricasGrupo04`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main/CalculoMetricas) y abre el archivo [`CalculoMetricasGrupo04.ipynb`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main/CalculoMetricas/CalculoMetricasGrupo04.ipynb)
 
 Una vez dentro del archivo en Jupyter Notebook, ejecuta las celdas para obtener los resultados de las métricas según las trazas proporcionadas. Además, encontrarás una celda Markdown al final en la que proporcionamos el análisis de los resultados que hemos obtenido con varias trazas.
