@@ -1,6 +1,6 @@
 # Cambios en el juego
 
-En este documento se verán los cambios que se han hecho en el juego para incluir el sistema de telemetria.
+En este documento se verán las clases del juego en las que se ha añadido código de instrumentalización
 
 ## GameManager.cs
 
@@ -15,7 +15,7 @@ int stage = 1;
     void Start()
     {
     //...
-        G04Telemetry.Tracker.Init("MiPrueba",5.0f,G04Telemetry.SerializeType.JSON,G04Telemetry.PersistanceType.File,_filename);
+          G04Telemetry.Tracker.Init("SteamMazehemGame", 5.0f, G04Telemetry.SerializeType.JSON, G04Telemetry.PersistanceType.File, _fileName);
     //...
     }
     void Update(){
@@ -83,7 +83,7 @@ int stage = 1;
                 goMenuAfterLevel();
         //...
     }
-    //...
+    //... Hemos creado este método ya que queríamos hacer distinción de ir al menú al perder/ganar o al salir, ya que nos estaba dando problemas
         void goMenuAfterLevel()
     {
         stage = 1;
@@ -119,20 +119,6 @@ void Update(){
     //...
 }
 ```
-
-## PlayerHealth.cs
-
-```c#
-//...
-using G04Telemetry;
-//...
-void Update(){
-    //...
-    G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerDeadEvent());
-    //...
-}
-```
-
 ## Enemy.cs
 
 ```c#
@@ -190,6 +176,14 @@ using G04Telemetry;
             //...
         }
     //...
+    }
+ private void OnTriggerStay2D(Collider2D gas)
+    {
+        if (gas.tag == "Gas" && !tiempogas)
+        {
+            G04Telemetry.Tracker.Instance().addEvent(new G04Telemetry.SteamMazehemEvents.PlayerReceiveDamageEvent(G04Telemetry.EnemyType.Sewer));
+            //...
+        }
     }
 //...
 ```
