@@ -6,7 +6,7 @@ En esta carpeta, tenemos el archivo [`CalculoMetricasGrupo04.ipynb`](https://git
 ## Pasos a seguir:
 
 1. **Obtener las trazas:**
-   - Las trazas generadas al jugar se guardan en la ruta principal del repositorio [`UAJ-23-24-G04-Juego`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main), con el nombre `Traza_xxxxxxxx`.
+   - Las trazas generadas al jugar se guardan en la ruta principal del repositorio [`UAJ-23-24-G04-Juego`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main), con el nombre puesto en la variable _filename en el editor de unity en el script *GameManager.cs* , además se le añade el nombre la ID de la sesion, suponiendo que el valor a _filename sea Traza y la ID de sesion sea: xxxxxxxx el nombre resultante seria: `Traza_xxxxxxxx`.
    - Copia las trazas generadas y pégalas dentro de la carpeta [`JSONS`](https://github.com/ssimoanto/UAJ-23-24-G04-Juego/tree/main/CalculoMetricas/JSONS) en este directorio.
 
 3. **Ejecutar Jupyter Notebook:**
