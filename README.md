@@ -1,18 +1,5 @@
-# Juego elegido para la práctica 3 de UAJ 23-24
-# Steam Mazehem
-### _Proyect:OR Studios_
-#### Creators:
-- ✨Simona Antonova Milhaylova ✨
-- ✨Eduardo Gallardo López✨
-- ✨Alejandro Martínez Fernández✨
-- ✨Enrique Juan Gamboa✨
+# UAJ23-24. GRUPO 04. CURSO 23-24.
+En este repositorio está disponible el juego instrumentalizado con nuestro sistema de telemetría
 
->A steam technician, Sinrie, is tasked to maintain her mayor's eccentric house. Suddenly, she finds herself locked in a twisted maze! Her Prototype House Order Neuroliser can move different rooms of the maze as it were a slide puzzle, but she must be aware of the numerous perils that may await in every corner!
-Help Sinrie escape the maze!
-
-## Website
-You can download and play!
-[LINK](https://proyector-studios.itch.io/steam-mazehem)
-
-![N|Cover](https://img.itch.zone/aW1hZ2UvMTA1MDUxMy82MDQzNTQxLnBuZw==/original/6GZNEq.png)
-
+En el archivo [`Cambios.md`](/Cambios.md) se especifican las clases del juego se ha añadido en las que se ha añadido código de instrumentalización.
+En la carpeta [`CalculoMetricas`](/CalculoMetricas) se encuentra todo lo relacionado con las métricas, y unas instrucciones de uso [`InstruccionesMetricas`](/CalculoMetricas/InstruccionesMetricas)
